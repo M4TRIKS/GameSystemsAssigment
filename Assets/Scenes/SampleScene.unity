@@ -1656,6 +1656,14 @@ MonoBehaviour:
   waves:
   - {fileID: 11400000, guid: 42ed8e6a65bca5743adf212a41ae7eaf, type: 2}
   - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
+  - {fileID: 11400000, guid: f798bcb5042d9904996373f5f5834683, type: 2}
   spawnPoint: {fileID: 2067585770}
   pathPoints:
   - {fileID: 307475428}
@@ -7252,7 +7260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.2D.Runtime::UnityEngine.Rendering.Universal.PixelPerfectCamera
   m_ComponentVersion: 1
-  m_AssetsPPU: 100
+  m_AssetsPPU: 50
   m_RefResolutionX: 1920
   m_RefResolutionY: 1080
   m_CropFrame: 0
