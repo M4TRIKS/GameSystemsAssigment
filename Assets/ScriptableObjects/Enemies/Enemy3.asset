@@ -17,4 +17,4 @@ MonoBehaviour:
   maxHealth: 500
   moveSpeed: 1
   reward: 50
-  livesDamage: 5
+  livesDamage: 3
